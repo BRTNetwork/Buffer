@@ -1,0 +1,28 @@
+{
+  "name": "lessmore92/buffer",
+  "description": "Toolbox for working with binary and hex data",
+  "keywords": [
+    "buffer",
+    "php-buffer",
+    "binary",
+    "hex",
+    "nodejs-buffer"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lessmore92",
+      "email": "bahramisoft@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php-64bit": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lessmore92\\Buffer\\": "src/"
+    }
+  }
+}
