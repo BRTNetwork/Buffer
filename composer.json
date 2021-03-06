@@ -1,5 +1,5 @@
 {
-  "name": "lessmore92/buffer",
+  "name": "brtnetwork/buffer",
   "description": "Toolbox for working with binary and hex data",
   "keywords": [
     "buffer",
@@ -12,8 +12,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Lessmore92",
-      "email": "bahramisoft@gmail.com"
+      "name": "BRT Network",
+      "email": "contact@brt.network"
     }
   ],
   "minimum-stability": "dev",
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Lessmore92\\Buffer\\": "src/"
+      "BRTNetwork\\Buffer\\": "src/"
     }
   }
 }

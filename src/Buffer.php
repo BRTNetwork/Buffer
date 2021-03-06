@@ -1,11 +1,6 @@
 <?php
-/**
- * User: Lessmore92
- * Date: 1/7/2021
- * Time: 12:58 PM
- */
 
-namespace Lessmore92\Buffer;
+namespace BRTNetwork\Buffer;
 
 use Exception;
 use GMP;
